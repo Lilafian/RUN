@@ -1,0 +1,6 @@
+@echo off
+:a
+start runavsd.bat
+echo HELP
+start mb.vbs
+goto a
